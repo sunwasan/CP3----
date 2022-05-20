@@ -1,0 +1,6 @@
+a = int(input("ตัวที่หนึ่ง:"))
+b = int(input("ตัวที่สอง:"))
+print(a,"+",b,"=",a+b)
+print(a,"-",b,"=",a-b)
+print(a,"x",b,"=",a*b)
+print(a,"/",b,"=",a/b)
